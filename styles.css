@@ -1,0 +1,57 @@
+:root {
+  --black: #111111;
+  --dark-purple: #1E1823;
+  --orange: #FD9222;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+  margin-bottom: 0;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.link {
+  font-style: normal;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 100%;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+
+
+/* styles  */
+
+
+.uniq-components-heading {
+
+}
+
+
+.exceptional-taste-heading {
+
+}
